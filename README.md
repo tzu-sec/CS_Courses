@@ -1,5 +1,9 @@
 # 台州学院电子与信息工程学院（大数据学院）计算机类课程指南
 
+<div style="text-align: center;">
+    <img src="_assets/full.svg" alt="logo" />
+</div>
+
 > 本仓库仅收录台州学院各类课程资源的笔记，示例作业，总结等内容
 
 ## 前言
