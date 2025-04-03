@@ -1,11 +1,11 @@
-# 台州学院电子与信息工程学院（大数据学院）计算机类课程指南
-
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="_assets/full.svg">
         <img alt="logo" src="_assets/full.svg" />
     </picture>
 </div>
+
+# 台州学院电子与信息工程学院（大数据学院）计算机类课程指南
 
 > 本仓库仅收录台州学院各类课程资源的笔记，示例作业，总结等内容
 
